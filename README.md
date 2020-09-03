@@ -1,2 +1,2 @@
 # AirFlow
-Airfow DAGs for transporting data from AppFlyer, Mixpanel, Appmetrica
+Airfow DAGs for transporting data from AppFlyer, Mixpanel, Appmetrica to BigQuery
